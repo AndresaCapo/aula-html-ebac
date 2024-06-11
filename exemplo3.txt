@@ -2,3 +2,6 @@ exemplo de como pegar uma alteração usando o terminal do git
 
 
 mais uma alteração usando o github
+
+
+alterando
